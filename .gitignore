@@ -1,4 +1,7 @@
 node_modules
 dev.js
 .env
+.env.development
+.env.production
 .notes
+.scratch_pad.js
